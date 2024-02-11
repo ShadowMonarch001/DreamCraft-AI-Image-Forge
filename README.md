@@ -7,7 +7,9 @@ Steps to Run:
 Start by uploading the IPYNB file from the GitHub repository to Google Colab.\
 Once uploaded, ensure that the Colab notebook is connected to a T4 GPU for optimal performance.
 Alternatively, you can open the Colab link directly from the GitHub repository and copy it to your Google Drive for easy access.
+
 Installation:
+
 1.Ensure you have Python installed on your system.
   Use pip to install the required Python packages: diffusers, transformers, scipy, ftfy, accelerate, pyngrok, and flask_ngrok.
   Get ngrok Authtoken:
